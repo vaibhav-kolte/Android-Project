@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculater</string>
+    <string name="today_date">Today date</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="find_age">Find Age</string>
+    <string name="age_calculator">Age calculator</string>
+</resources>
